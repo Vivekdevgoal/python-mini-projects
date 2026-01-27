@@ -70,3 +70,9 @@
 ## 🤝 Contributions
 
   This repository is primarily for learning and practice, but suggestions and improvements are always welcome
+
+## **projexts completed** 
+ 1. Number Guessing
+ 2. Letter Guessing (variation of first for learning concept)
+ 3. TODO List using Lists
+ 4. Contact List using Dictionary
