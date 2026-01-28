@@ -1,0 +1,26 @@
+{
+    "101": {
+        "name": "chhava",
+        "author": "shivaji sawant",
+        "total_copies": 10,
+        "available_copies": 10
+    },
+    "102": {
+        "name": "shyamchi aai",
+        "author": "sane guruji",
+        "total_copies": 15,
+        "available_copies": 15
+    },
+    "103": {
+        "name": "shrimaanyogi",
+        "author": "ranjeet desai",
+        "total_copies": 10,
+        "available_copies": 6
+    },
+    "104": {
+        "name": "malgudi days",
+        "author": "r. k. narayan",
+        "total_copies": 15,
+        "available_copies": 10
+    }
+}
