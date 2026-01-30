@@ -20,7 +20,7 @@ def load_categories():
 
 def save_categories():
     with open(cat_file, "w") as cf:
-        json.dump(categories, cf, indent=4)
+        json.dump(cat, cf, indent=4)
 
 def load_expenses():
   global expenses
@@ -42,23 +42,23 @@ def add_category():
         print("Category cannot be empty.")
         return
 
-    if new_cat in categories:
+    if new_cat in cat:
         print("Category already exists.")
         return
 
-    categories.append(new_cat)
+    cat.append(new_cat)
     save_categories()
     print("Category added successfully.")
 
 def choose_category():
     print("\nAvailable Categories:")
-    for i, cat in enumerate(categories, start=1):
+    for i, cat in enumerate(cat, start=1):
         print(f"{i}. {cat}")
 
     try:
         choice = int(input("Choose category number: "))
-        if 1 <= choice <= len(categories):
-            return categories[choice - 1]
+        if 1 <= choice <= len(cat):
+            return cat[choice - 1]
         else:
             print("Invalid category choice.")
             return None
