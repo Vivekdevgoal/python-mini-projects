@@ -1,0 +1,110 @@
+[
+    {
+        "amount": 250,
+        "category": "Food",
+        "date": "2026-01-20",
+        "note": "Lunch"
+    },
+    {
+        "amount": 120,
+        "category": "Transport",
+        "date": "2026-01-20",
+        "note": "Bus fare"
+    },
+    {
+        "amount": 500,
+        "category": "Shopping",
+        "date": "2026-01-21",
+        "note": "Clothes"
+    },
+    {
+        "amount": 80,
+        "category": "Food",
+        "date": "2026-01-21",
+        "note": "Snacks"
+    },
+    {
+        "amount": 1500,
+        "category": "Rent",
+        "date": "2026-01-22",
+        "note": "Room rent"
+    },
+    {
+        "amount": 300,
+        "category": "Food",
+        "date": "2026-01-22",
+        "note": "Dinner"
+    },
+    {
+        "amount": 200,
+        "category": "Transport",
+        "date": "2026-01-23",
+        "note": "Cab"
+    },
+    {
+        "amount": 700,
+        "category": "Entertainment",
+        "date": "2026-01-24",
+        "note": "Movie + snacks"
+    },
+    {
+        "amount": 100,
+        "category": "Food",
+        "date": "2026-01-25",
+        "note": "Breakfast"
+    },
+    {
+        "amount": 400,
+        "category": "Shopping",
+        "date": "2026-01-25",
+        "note": "Groceries"
+    },
+    {
+        "amount": 90,
+        "category": "Food",
+        "date": "2026-01-26",
+        "note": "Tea & snacks"
+    },
+    {
+        "amount": 250,
+        "category": "Transport",
+        "date": "2026-01-26",
+        "note": "Fuel"
+    },
+    {
+        "amount": 600,
+        "category": "Bills",
+        "date": "2026-01-27",
+        "note": "Electricity bill"
+    },
+    {
+        "amount": 350,
+        "category": "Food",
+        "date": "2026-01-28",
+        "note": "Lunch + dinner"
+    },
+    {
+        "amount": 1200,
+        "category": "Shopping",
+        "date": "2026-01-29",
+        "note": "Shoes"
+    },
+    {
+        "amount": 180,
+        "category": "Food",
+        "date": "2026-01-29",
+        "note": "Snacks"
+    },
+    {
+        "amount": 500,
+        "category": "Entertainment",
+        "date": "2026-01-30",
+        "note": "Concert ticket"
+    },
+    {
+        "amount": 220,
+        "category": "Transport",
+        "date": "2026-01-30",
+        "note": "Auto + bus"
+    }
+]

@@ -77,3 +77,4 @@
  3. TODO List using Lists
  4. Contact List using Dictionary
  5. Library Management : add, issue, return, total_issued books, each book issued 
+ 6. Expense Tracker : adding, deleting, visualization of daily, monthly, category-wise expenses in bar-graph, pie-chart
