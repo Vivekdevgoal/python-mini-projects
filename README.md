@@ -44,7 +44,8 @@ The projects progress from **beginner to medium level**, covering logic building
 3. **To-Do List Application** – Task management using lists and file handling  
 4. **Contact List Application** – Contact management using dictionaries and JSON  
 5. **Library Management System** – Book management with issue/return tracking  
-6. **Expense Tracker** – Expense recording, analysis, and visualization using charts  
+6. **Expense Tracker** – Expense recording, analysis, and visualization using charts
+7. **Quiz App** - CLI quiz app with multiple modes, timers, and scoring system  
 
 ## 🚀 Future Improvements
 - Add more real-world–inspired mini projects
