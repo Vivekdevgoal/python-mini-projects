@@ -46,6 +46,7 @@ The projects progress from **beginner to medium level**, covering logic building
 5. **Library Management System** – Book management with issue/return tracking  
 6. **Expense Tracker** – Expense recording, analysis, and visualization using charts
 7. **Quiz App** - CLI quiz app with multiple modes, timers, and scoring system  
+8. **Password_analyzer** - CLI password strength checker with scoring, pattern detection, and security feedback
 
 ## 🚀 Future Improvements
 - Add more real-world–inspired mini projects
