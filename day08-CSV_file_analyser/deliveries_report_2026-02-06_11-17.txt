@@ -1,0 +1,29 @@
+===== DATASET OVERVIEW =====
+Rows: 150460
+Columns: 21
+Integer columns: 13
+Float columns: 0
+Object/String columns: 8
+Memory usage: 75312.44 KB
+
+
+===== MISSING VALUES =====
+player_dismissed: 143022 missing values
+dismissal_kind: 143022 missing values
+fielder: 145091 missing values
+
+
+===== NUMERIC STATISTICS =====
+        match_id  inning   over  ball  is_super_over  wide_runs  bye_runs  legbye_runs  noball_runs  penalty_runs  batsman_runs  extra_runs  total_runs
+mean      318.28    1.48  10.14  3.62           0.00       0.04      0.00         0.02         0.00          0.00          1.22        0.07        1.29
+median    319.00    1.00  10.00  4.00           0.00       0.00      0.00         0.00         0.00          0.00          1.00        0.00        1.00
+min         1.00    1.00   1.00  1.00           0.00       0.00      0.00         0.00         0.00          0.00          0.00        0.00        0.00
+max       636.00    4.00  20.00  9.00           1.00       5.00      4.00         5.00         5.00          5.00          6.00        7.00        7.00
+std       182.96    0.50   5.67  1.81           0.02       0.26      0.11         0.20         0.07          0.02          1.59        0.35        1.58
+
+
+===== CATEGORICAL INSIGHTS =====
+          batting_team    bowling_team  batsman non_striker           bowler player_dismissed dismissal_kind     fielder
+unique              14              14      461         458              356              436              9         451
+top     Mumbai Indians  Mumbai Indians  V Kohli   G Gambhir  Harbhajan Singh         SK Raina         caught  KD Karthik
+count            18943           18879     3494        3635             2989              134           4373         127
